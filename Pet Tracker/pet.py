@@ -30,8 +30,8 @@ class pet:
                 print("You may have typed something wrong, please retype!\n")
             
         
-if __name__ == "__main__":
-    Pet_Tracker()
+    if __name__ == "__main__":
+        Pet_Tracker()
 
         
         
